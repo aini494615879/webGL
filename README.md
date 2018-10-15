@@ -2,4 +2,4 @@
 examples for webGL
 by someone learning webGl
 helloworld
- gl.clear(gl.COLOR_BUFFER_BIT);
+gl.clearColor(0.0, 0.0, 0.0, 1.0);
